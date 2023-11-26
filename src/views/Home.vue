@@ -21,8 +21,8 @@ The Leaderboard tab is where you can see how each team is doing. A team is elimi
       <FaqDropdown
         title="What is the mint price and why is it not free?"
         description="
-        The smart contracts will be deployed on Polygon Mainnet. This means gas will cost pennies. Because of this, we have to protect against the game getting ruined by bots and spam, so we can't do a free mint. <br> <br>
-        The price of one NFT will be 20 MATIC, which is approximately 14 USD. This price should be small enough that most people who want to play can afford it, but sufficient to prevent people from spamming the contracts.
+        The smart contracts will be deployed on Lukso Mainnet. This means gas will cost pennies, or be free if you interact with the game via a transaction relayer. Because of this, we have to protect against the game getting ruined by bots and spam, so we can't do a free mint. <br> <br>
+        The price of one NFT will be 2 LYX, which is approximately 12 USD. This price should be small enough that most people who want to play can afford it, but sufficient to prevent people from spamming the contracts.
         "
       />
 
