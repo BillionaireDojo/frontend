@@ -1,0 +1,38 @@
+[
+    {
+        "id": 0,
+        "img": "bezos1.png",
+        "description": "In the middle of the night you hear a crazy laugh from your Alexa... yes, Bezos has come for you. He just pushes 'Kill now with 1-click' on his personal Amazon site or orders death by drone strike - free 2 second delivery, not only on prime day.",
+        "name": "bezos-card-name.svg"
+    },
+    {
+        "id": 1,
+        "img": "cook1.png",
+        "description": "This mfer will cook you up real bad and serve you as apple pie for his dogs. Since other means wouldn't get the Jobs done he spent 2983 years practicing his eye gauges to make sure no opponent of his will ever be able to use a Vision Pro.",
+        "name": "cook-card-name.svg"
+    },
+    {
+        "id": 2,
+        "img": "dorsey1.png",
+        "description": "After being Xcluded from his previous company, he disappeared into the depths of deep time practicing an ancient martial arts method that ends with building the biggest decentralized payments system from the atoms that made up his dead opponents.",
+        "name": "dorsey-card-name.svg"
+    },
+    {
+        "id": 3,
+        "img": "elon1.png",
+        "description": "Elon is the ultimate billionaire cyberpunk spacelord warrior. he has a super strong right kick that will send all his opponents to outer space. He will put the first man on Mars by kicking one of his opponents all the way to the red planet.",
+        "name": "elon-card-name.svg"
+    },
+    {
+        "id": 4,
+        "img": "pichai1.png",
+        "description": "He has a Chrome extension that disassembles his opponents and repackages them as parts of a Pixel phone. Although he has 'Do not be evil' tattooed on his left butt cheek, he will put the fear of the Alphabet right into you with all the vile stuff he can do.",
+        "name": "pichai-card-name.svg"
+    },
+    {
+        "id": 5,
+        "img": "zuck1.png",
+        "description": "Do not Threads lightly around him or you risk getting zucked. He turns your personal data into digital gold faster than you can say 'privacy breach'. After Facebook, he's building Headbook: a collection of the heads of his decapitated enemies.",
+        "name": "zuck-card-name.svg"
+    }
+]
